@@ -1,0 +1,1691 @@
+{
+  "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists?offset=0&limit=50",
+  "items" : [ {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/7hwjt6zUHTi4ZiGfPKBpEb"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/7hwjt6zUHTi4ZiGfPKBpEb",
+    "id" : "7hwjt6zUHTi4ZiGfPKBpEb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/dec89359c9b513bd10c0347da949d9c05f3a71d1",
+      "width" : 640
+    } ],
+    "name" : "Test URIS",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : true,
+    "snapshot_id" : "UC2TxIHSvKYTpraqPHZOMyFGqFP2obO3+32VSixmyQJJYcl+sf/cuxUURuuXnew+",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/7hwjt6zUHTi4ZiGfPKBpEb/tracks",
+      "total" : 1
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:7hwjt6zUHTi4ZiGfPKBpEb"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/1171272989/playlist/3k6CChd0YEAdt1UFaS3NKR"
+    },
+    "href" : "https://api.spotify.com/v1/users/1171272989/playlists/3k6CChd0YEAdt1UFaS3NKR",
+    "id" : "3k6CChd0YEAdt1UFaS3NKR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/927a0b3a207f999eaf94aa1f9b92b8900c95e014932e185b217606caa34b837dbe30d54028de9cfc284b3f8cce7843437cc6e6cac4bf5b3a9e21a98d2027dbfec96249cdc12ff804738898afce24a7a5",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/927a0b3a207f999eaf94aa1f9b92b8900c95e014932e185b217606caa34b837dbe30d54028de9cfc284b3f8cce7843437cc6e6cac4bf5b3a9e21a98d2027dbfec96249cdc12ff804738898afce24a7a5",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/927a0b3a207f999eaf94aa1f9b92b8900c95e014932e185b217606caa34b837dbe30d54028de9cfc284b3f8cce7843437cc6e6cac4bf5b3a9e21a98d2027dbfec96249cdc12ff804738898afce24a7a5",
+      "width" : 60
+    } ],
+    "name" : "Temazos",
+    "owner" : {
+      "display_name" : "Sara Estellés",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/1171272989"
+      },
+      "href" : "https://api.spotify.com/v1/users/1171272989",
+      "id" : "1171272989",
+      "type" : "user",
+      "uri" : "spotify:user:1171272989"
+    },
+    "public" : false,
+    "snapshot_id" : "lHNFOPXm3O7h1ipNnV7ryH70i3pCSLjoFSDeEVpbGv3kHRxe2WyyNB93V8bnJoze",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/1171272989/playlists/3k6CChd0YEAdt1UFaS3NKR/tracks",
+      "total" : 343
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:1171272989:playlist:3k6CChd0YEAdt1UFaS3NKR"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/lukasmaciulistest/playlist/29K5yJSMo9HCghPvcWc52l"
+    },
+    "href" : "https://api.spotify.com/v1/users/lukasmaciulistest/playlists/29K5yJSMo9HCghPvcWc52l",
+    "id" : "29K5yJSMo9HCghPvcWc52l",
+    "images" : [ ],
+    "name" : "านั้น",
+    "owner" : {
+      "display_name" : null,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/lukasmaciulistest"
+      },
+      "href" : "https://api.spotify.com/v1/users/lukasmaciulistest",
+      "id" : "lukasmaciulistest",
+      "type" : "user",
+      "uri" : "spotify:user:lukasmaciulistest"
+    },
+    "public" : false,
+    "snapshot_id" : "Hdbmjvo6wEyWlcX2sFofQOmGQ/9MK9EDl+f+5eMPDxZ4CoJuKyfuSP368wsw1+2H",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/lukasmaciulistest/playlists/29K5yJSMo9HCghPvcWc52l/tracks",
+      "total" : 0
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:lukasmaciulistest:playlist:29K5yJSMo9HCghPvcWc52l"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/spotify/playlist/37i9dQZF1CAtOyrEktiPbU"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1CAtOyrEktiPbU",
+    "id" : "37i9dQZF1CAtOyrEktiPbU",
+    "images" : [ {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/5f13d953cbb925a7672811c3d9df13760c4cae60",
+      "width" : 300
+    } ],
+    "name" : "Your Summer Rewind",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "public" : false,
+    "snapshot_id" : "XNJ7Jc4y/2viN6WXWsV2+fZkIZVUa6pgdxuUxenOY0lc3/5LQ5Ud09QpTT1nhcKIOrdzeGz5SCM=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1CAtOyrEktiPbU/tracks",
+      "total" : 30
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:spotify:playlist:37i9dQZF1CAtOyrEktiPbU"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/masterofnonetv/playlist/5VwYZ6I3TQmYBKDW2u4CMD"
+    },
+    "href" : "https://api.spotify.com/v1/users/masterofnonetv/playlists/5VwYZ6I3TQmYBKDW2u4CMD",
+    "id" : "5VwYZ6I3TQmYBKDW2u4CMD",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/5b94877a7c42f59544fabeaba31e69e6636d0c2e",
+      "width" : null
+    } ],
+    "name" : "Master Of None Season 2",
+    "owner" : {
+      "display_name" : "Master of None",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/masterofnonetv"
+      },
+      "href" : "https://api.spotify.com/v1/users/masterofnonetv",
+      "id" : "masterofnonetv",
+      "type" : "user",
+      "uri" : "spotify:user:masterofnonetv"
+    },
+    "public" : false,
+    "snapshot_id" : "vuNzjURVd/GpfJ7akDjv8rf3TqgEt513++izc/kFQ1YzQQ/8Lkx/AsKkWQPx3i9u",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/masterofnonetv/playlists/5VwYZ6I3TQmYBKDW2u4CMD/tracks",
+      "total" : 69
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:masterofnonetv:playlist:5VwYZ6I3TQmYBKDW2u4CMD"
+  }, {
+    "collaborative" : true,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/2YS8Kyze3s0YKHCMDtgp4f"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/2YS8Kyze3s0YKHCMDtgp4f",
+    "id" : "2YS8Kyze3s0YKHCMDtgp4f",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/c09bb724d01c73b2f7c4d1f34e65b8659309efec",
+      "width" : null
+    } ],
+    "name" : "Web Platform BBQ",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : false,
+    "snapshot_id" : "IfkvCGNE7YeTGIJKnWXt+b/2NUZkZjegQT2MLj9etZXzTNK7BcawOVozSqPoJZza",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/2YS8Kyze3s0YKHCMDtgp4f/tracks",
+      "total" : 56
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:2YS8Kyze3s0YKHCMDtgp4f"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/4kGI3KdqvAF30pWJwO9S3c"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/4kGI3KdqvAF30pWJwO9S3c",
+    "id" : "4kGI3KdqvAF30pWJwO9S3c",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/21a043ee80524c5b1dda029f325ab7506367ad8e",
+      "width" : null
+    } ],
+    "name" : "You've got great taste!",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : false,
+    "snapshot_id" : "vBtPSf2VfcHHt6H/9qohc9IERxUlJOTv0PHtWWV2fNnCfc0UhrqFkDFicGMRGl0z",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/4kGI3KdqvAF30pWJwO9S3c/tracks",
+      "total" : 30
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:4kGI3KdqvAF30pWJwO9S3c"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/21ocBvbEFxQaimILYhcHFs"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/21ocBvbEFxQaimILYhcHFs",
+    "id" : "21ocBvbEFxQaimILYhcHFs",
+    "images" : [ ],
+    "name" : "This is a playlist with a very long name so it produces ellipsis.",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : true,
+    "snapshot_id" : "yHyIoOB8sEUdWNzE8tRDdMORDwWSMsbgx8iuLs6YwWOJ3CUx8Tu4EcGTJbmDRgU2",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/21ocBvbEFxQaimILYhcHFs/tracks",
+      "total" : 0
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:21ocBvbEFxQaimILYhcHFs"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/thesoundsofspotify/playlist/2Dqc47HGCjOdkFen664b0Q"
+    },
+    "href" : "https://api.spotify.com/v1/users/thesoundsofspotify/playlists/2Dqc47HGCjOdkFen664b0Q",
+    "id" : "2Dqc47HGCjOdkFen664b0Q",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/9a740bc33b988129a926a0bafc25a6da54d0ac29ea8f781f04bfcd24e952a744da41f98e369913ff9ed30ce7c611eb497754285a22f91eceace2f9fe91b87636d6fc2366aae9c123c05196a31274b966",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/9a740bc33b988129a926a0bafc25a6da54d0ac29ea8f781f04bfcd24e952a744da41f98e369913ff9ed30ce7c611eb497754285a22f91eceace2f9fe91b87636d6fc2366aae9c123c05196a31274b966",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/9a740bc33b988129a926a0bafc25a6da54d0ac29ea8f781f04bfcd24e952a744da41f98e369913ff9ed30ce7c611eb497754285a22f91eceace2f9fe91b87636d6fc2366aae9c123c05196a31274b966",
+      "width" : 60
+    } ],
+    "name" : "The Needle / Spain",
+    "owner" : {
+      "display_name" : "The Sounds of Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/thesoundsofspotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/thesoundsofspotify",
+      "id" : "thesoundsofspotify",
+      "type" : "user",
+      "uri" : "spotify:user:thesoundsofspotify"
+    },
+    "public" : false,
+    "snapshot_id" : "TCQj89e9ZdCNVaFeSmwBIE98CvoxlxecnskpXXEGyeIuIK64IFh4kG1ayUg1Q/EM",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/thesoundsofspotify/playlists/2Dqc47HGCjOdkFen664b0Q/tracks",
+      "total" : 150
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:thesoundsofspotify:playlist:2Dqc47HGCjOdkFen664b0Q"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/thesoundsofspotify/playlist/1MYb5GM0EKTmxmnXW9h0lL"
+    },
+    "href" : "https://api.spotify.com/v1/users/thesoundsofspotify/playlists/1MYb5GM0EKTmxmnXW9h0lL",
+    "id" : "1MYb5GM0EKTmxmnXW9h0lL",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/313e4fcab55eba4166557819b0e6d6a8cc81b3f7e656cdab725da3c66087101625b77c56253092f1222a71dc6a6edaee42198983f4fa1044af55b5f3c46d1281eede8cbed888140621d57f27eb2e6ddb",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/313e4fcab55eba4166557819b0e6d6a8cc81b3f7e656cdab725da3c66087101625b77c56253092f1222a71dc6a6edaee42198983f4fa1044af55b5f3c46d1281eede8cbed888140621d57f27eb2e6ddb",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/313e4fcab55eba4166557819b0e6d6a8cc81b3f7e656cdab725da3c66087101625b77c56253092f1222a71dc6a6edaee42198983f4fa1044af55b5f3c46d1281eede8cbed888140621d57f27eb2e6ddb",
+      "width" : 60
+    } ],
+    "name" : "The Needle / Spain - Emerging",
+    "owner" : {
+      "display_name" : "The Sounds of Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/thesoundsofspotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/thesoundsofspotify",
+      "id" : "thesoundsofspotify",
+      "type" : "user",
+      "uri" : "spotify:user:thesoundsofspotify"
+    },
+    "public" : false,
+    "snapshot_id" : "+j/wxKtV467CWLPj8DlUOJ5n/Ix2DF82Nvz24o/Rp9t6/5f+4cCbcFxZRq04jVr4",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/thesoundsofspotify/playlists/1MYb5GM0EKTmxmnXW9h0lL/tracks",
+      "total" : 54
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:thesoundsofspotify:playlist:1MYb5GM0EKTmxmnXW9h0lL"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/thesoundsofspotify/playlist/4YVYB26cPU7Y9ghW5Cn7hT"
+    },
+    "href" : "https://api.spotify.com/v1/users/thesoundsofspotify/playlists/4YVYB26cPU7Y9ghW5Cn7hT",
+    "id" : "4YVYB26cPU7Y9ghW5Cn7hT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/9a740bc33b988129a926a0bafc25a6da54d0ac29ea8f781f04bfcd24e952a744da41f98e369913ff9ed30ce7c611eb497754285a22f91eceace2f9fe91b87636d6fc2366aae9c123c05196a31274b966",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/9a740bc33b988129a926a0bafc25a6da54d0ac29ea8f781f04bfcd24e952a744da41f98e369913ff9ed30ce7c611eb497754285a22f91eceace2f9fe91b87636d6fc2366aae9c123c05196a31274b966",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/9a740bc33b988129a926a0bafc25a6da54d0ac29ea8f781f04bfcd24e952a744da41f98e369913ff9ed30ce7c611eb497754285a22f91eceace2f9fe91b87636d6fc2366aae9c123c05196a31274b966",
+      "width" : 60
+    } ],
+    "name" : "The Needle / Spain - Current",
+    "owner" : {
+      "display_name" : "The Sounds of Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/thesoundsofspotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/thesoundsofspotify",
+      "id" : "thesoundsofspotify",
+      "type" : "user",
+      "uri" : "spotify:user:thesoundsofspotify"
+    },
+    "public" : false,
+    "snapshot_id" : "BxELFQ7KG0Y+olzP7Agl9faDzhsd7aVFStZqr8oxsuCylBAgsZOHyyow/6lSWv+3",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/thesoundsofspotify/playlists/4YVYB26cPU7Y9ghW5Cn7hT/tracks",
+      "total" : 44
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:thesoundsofspotify:playlist:4YVYB26cPU7Y9ghW5Cn7hT"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/0BQEc1qGejUd5ZJVDa1wnd"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/0BQEc1qGejUd5ZJVDa1wnd",
+    "id" : "0BQEc1qGejUd5ZJVDa1wnd",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/f5889db41e74f8f2972e36d94ca62769919e04b8c3dfe6e947c00902338c437fe3fe11657e3f4224e420c1adb32f394fadd8f4ee0bd12f98111a080fece1b1d55f91c4240a905ef6f6887f15162a0b84",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/f5889db41e74f8f2972e36d94ca62769919e04b8c3dfe6e947c00902338c437fe3fe11657e3f4224e420c1adb32f394fadd8f4ee0bd12f98111a080fece1b1d55f91c4240a905ef6f6887f15162a0b84",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/f5889db41e74f8f2972e36d94ca62769919e04b8c3dfe6e947c00902338c437fe3fe11657e3f4224e420c1adb32f394fadd8f4ee0bd12f98111a080fece1b1d55f91c4240a905ef6f6887f15162a0b84",
+      "width" : 60
+    } ],
+    "name" : "Incidents!",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : false,
+    "snapshot_id" : "qWINC2q+fdHMoAELe3ZBJiuf10MZ1e76frWec6wMq7wVfvK0m5UFAXsRQwp/rZZ0",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/0BQEc1qGejUd5ZJVDa1wnd/tracks",
+      "total" : 4
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:0BQEc1qGejUd5ZJVDa1wnd"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/%23musicmakesyoutravel-rumbo/playlist/1PrPnCJV4oTYE0DAxvHDTQ"
+    },
+    "href" : "https://api.spotify.com/v1/users/%23musicmakesyoutravel-rumbo/playlists/1PrPnCJV4oTYE0DAxvHDTQ",
+    "id" : "1PrPnCJV4oTYE0DAxvHDTQ",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/36e06a78f3e4c275dc1182f1a21f35f50bcb69d6",
+      "width" : null
+    } ],
+    "name" : "North Amsterdam",
+    "owner" : {
+      "display_name" : "rumbo.es",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/%23musicmakesyoutravel-rumbo"
+      },
+      "href" : "https://api.spotify.com/v1/users/%23musicmakesyoutravel-rumbo",
+      "id" : "#musicmakesyoutravel-rumbo",
+      "type" : "user",
+      "uri" : "spotify:user:%23musicmakesyoutravel-rumbo"
+    },
+    "public" : false,
+    "snapshot_id" : "5jqfV7QCfm9QCTOXJLPbQhdI4HfvAzYKBp/zzS7hyyuzexxWB0gjwakkvZCBQ/23",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/%23musicmakesyoutravel-rumbo/playlists/1PrPnCJV4oTYE0DAxvHDTQ/tracks",
+      "total" : 20
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:%23musicmakesyoutravel-rumbo:playlist:1PrPnCJV4oTYE0DAxvHDTQ"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/spotify/playlist/37i9dQZEVXcJtXa3w6K6tV"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZEVXcJtXa3w6K6tV",
+    "id" : "37i9dQZEVXcJtXa3w6K6tV",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/824943fdec469ff54b15fe7a552e308dcda19340",
+      "width" : null
+    } ],
+    "name" : "Discover Weekly",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "public" : false,
+    "snapshot_id" : "DRYIc3tcaFDiN6WXWsV2+egrI32DhNIZwGVyXEgfMNeKx0SyhDObqfUe79w0XozAt+H2bnfRalA=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZEVXcJtXa3w6K6tV/tracks",
+      "total" : 30
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:spotify:playlist:37i9dQZEVXcJtXa3w6K6tV"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX3PFzdbtx1Us"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX3PFzdbtx1Us",
+    "id" : "37i9dQZF1DX3PFzdbtx1Us",
+    "images" : [ {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/9f5e6891b5d5c09fa0d7bda6604cdd82ac461c14",
+      "width" : 300
+    } ],
+    "name" : "Music For Concentration",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "public" : false,
+    "snapshot_id" : "tQd7iLeppfwbQeaDNibFWL4x8odIFzkNtY9+kmUIAtl0wdGp7l7ssOfuB39nQWfF/OM1XWO+wfI=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX3PFzdbtx1Us/tracks",
+      "total" : 80
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:spotify:playlist:37i9dQZF1DX3PFzdbtx1Us"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/3TiCigQUVWX9fXRxFkhaSg"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/3TiCigQUVWX9fXRxFkhaSg",
+    "id" : "3TiCigQUVWX9fXRxFkhaSg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/e1da4d731d7bf35be800e5611cbd75d5e5c303b9",
+      "width" : 640
+    } ],
+    "name" : "    ",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : true,
+    "snapshot_id" : "br2ZMNWbKECfnEgyVnBuVwOp7U+W3P7KTniBi5IZW/xH0kwDjsdD1ShmGAUqSXUi",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/3TiCigQUVWX9fXRxFkhaSg/tracks",
+      "total" : 13
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:3TiCigQUVWX9fXRxFkhaSg"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWZ2DWnNKZTXs"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWZ2DWnNKZTXs",
+    "id" : "37i9dQZF1DWZ2DWnNKZTXs",
+    "images" : [ {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/937ddb12af043646ec0f86f5f76354df201b912d",
+      "width" : 300
+    } ],
+    "name" : "Brasil Anos 2000",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "public" : false,
+    "snapshot_id" : "H3N8WyVcNw/7tc+nS+3zZVtCkfjH71x10oLFUCIbeOXrxvftp+B7V+x9AaMew7YSVfulATtXl1M=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWZ2DWnNKZTXs/tracks",
+      "total" : 54
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:spotify:playlist:37i9dQZF1DWZ2DWnNKZTXs"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX10zKzsJ2jva"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX10zKzsJ2jva",
+    "id" : "37i9dQZF1DX10zKzsJ2jva",
+    "images" : [ {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/4df1d269fa40b200f67997e4a8a4381ffcac1ed2",
+      "width" : 300
+    } ],
+    "name" : "¡Viva Latino!",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "public" : false,
+    "snapshot_id" : "47zOpBVqZ7wZzNdWN2iWhrHGgo77Z1ySY56LBCRhiCJwRFEUDkO0bSjL2wv1Y2nhoDG7N9Z4tpI=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX10zKzsJ2jva/tracks",
+      "total" : 68
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:spotify:playlist:37i9dQZF1DX10zKzsJ2jva"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/1o87hyUOs7mcsH1exVy9go"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/1o87hyUOs7mcsH1exVy9go",
+    "id" : "1o87hyUOs7mcsH1exVy9go",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/018d5ba21090851c71d37fffae30b2bbccfcbc4209d8153e830a587d3bbf7059e138f758720e523bc0764acb252c87f2089d2325e4c4cad605941a294e2ea9c11ec825bfe6b0e808ec68847593878c15",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/018d5ba21090851c71d37fffae30b2bbccfcbc4209d8153e830a587d3bbf7059e138f758720e523bc0764acb252c87f2089d2325e4c4cad605941a294e2ea9c11ec825bfe6b0e808ec68847593878c15",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/018d5ba21090851c71d37fffae30b2bbccfcbc4209d8153e830a587d3bbf7059e138f758720e523bc0764acb252c87f2089d2325e4c4cad605941a294e2ea9c11ec825bfe6b0e808ec68847593878c15",
+      "width" : 60
+    } ],
+    "name" : "Test",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : true,
+    "snapshot_id" : "wknA3jh/NMFhnj0TlXzAT2t6YDJA7NBKrxkqAbH7QFokFL/TTFOPrHwVkHfQZ/aD",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/1o87hyUOs7mcsH1exVy9go/tracks",
+      "total" : 52
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:1o87hyUOs7mcsH1exVy9go"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/carlosmuchoelche/playlist/53kffrcq9wbPwwLupX1CIE"
+    },
+    "href" : "https://api.spotify.com/v1/users/carlosmuchoelche/playlists/53kffrcq9wbPwwLupX1CIE",
+    "id" : "53kffrcq9wbPwwLupX1CIE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/439847671a18b189ff6dde801c8283d5d199c4cd8ac733490793f000418bfe4af843b7e9e5d8019b55cc31d3efa495d05e034146331553db0a747cf5dae02946d272d8ea16b1f4362e00c55c31c93d39",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/439847671a18b189ff6dde801c8283d5d199c4cd8ac733490793f000418bfe4af843b7e9e5d8019b55cc31d3efa495d05e034146331553db0a747cf5dae02946d272d8ea16b1f4362e00c55c31c93d39",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/439847671a18b189ff6dde801c8283d5d199c4cd8ac733490793f000418bfe4af843b7e9e5d8019b55cc31d3efa495d05e034146331553db0a747cf5dae02946d272d8ea16b1f4362e00c55c31c93d39",
+      "width" : 60
+    } ],
+    "name" : "cancionacassss",
+    "owner" : {
+      "display_name" : null,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/carlosmuchoelche"
+      },
+      "href" : "https://api.spotify.com/v1/users/carlosmuchoelche",
+      "id" : "carlosmuchoelche",
+      "type" : "user",
+      "uri" : "spotify:user:carlosmuchoelche"
+    },
+    "public" : false,
+    "snapshot_id" : "WyEEt2vLoKx9YQArO9qNBHLd6usUqDuGLdx64WzckptVkDJmquGj1uF/LFDO3DUH",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/carlosmuchoelche/playlists/53kffrcq9wbPwwLupX1CIE/tracks",
+      "total" : 48
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:carlosmuchoelche:playlist:53kffrcq9wbPwwLupX1CIE"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWZoF06RIo9el"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWZoF06RIo9el",
+    "id" : "37i9dQZF1DWZoF06RIo9el",
+    "images" : [ {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/b76e5369226a29c910171df89bcef65d4e1c71e8",
+      "width" : 300
+    } ],
+    "name" : "Radar Latino",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "public" : false,
+    "snapshot_id" : "gWHl+lry4grDYWVSFp+sZNDm3YH8XLXnOWWIQW6aEsgguq0RSdcTdeg6aGSj9WMsub6nlJl8h1k=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWZoF06RIo9el/tracks",
+      "total" : 50
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:spotify:playlist:37i9dQZF1DWZoF06RIo9el"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX1hVRardJ30X"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX1hVRardJ30X",
+    "id" : "37i9dQZF1DX1hVRardJ30X",
+    "images" : [ {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/a4c1dea9edf766268a0b11f4c662c72be07e35cf",
+      "width" : 300
+    } ],
+    "name" : "New Music Friday Latin",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "public" : false,
+    "snapshot_id" : "v6+4a1ClUpDT+Xmzh/6NcwgL6z4XKvnzLEP7Xff82774EZjRvOsBrjGsHP+rGlJfZwenL4OWiUw=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX1hVRardJ30X/tracks",
+      "total" : 50
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:spotify:playlist:37i9dQZF1DX1hVRardJ30X"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/spotify/playlist/37i9dQZF1CyNp9qECtMyqW"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1CyNp9qECtMyqW",
+    "id" : "37i9dQZF1CyNp9qECtMyqW",
+    "images" : [ {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/e25ca9fb548a9c1f51fbc74289307e37fa8ae176",
+      "width" : 300
+    } ],
+    "name" : "Your Top Songs 2016",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "public" : false,
+    "snapshot_id" : "bmknLixSvY3iN6WXWsV2+TQXyeN/MUhN/TfieBZ2WoFI25/Q2QfSwE0KYE2lDrkVVorxR3R5yWw=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1CyNp9qECtMyqW/tracks",
+      "total" : 101
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:spotify:playlist:37i9dQZF1CyNp9qECtMyqW"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX4yFZIjMuoHU"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4yFZIjMuoHU",
+    "id" : "37i9dQZF1DX4yFZIjMuoHU",
+    "images" : [ {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/35e95c6413a6800d809732b4a26a1107921b7b24",
+      "width" : 300
+    } ],
+    "name" : "This Is: Frosty the Snowman",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "public" : false,
+    "snapshot_id" : "dPc7Zh9KNoDaJK0Dleq5eFez6VUsVc4dTYWiOj70rCq3GSP1XjkFM9XoJai3dzBHB5+6FWK3vR4=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4yFZIjMuoHU/tracks",
+      "total" : 30
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:spotify:playlist:37i9dQZF1DX4yFZIjMuoHU"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX4JAvHpjipBk"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4JAvHpjipBk",
+    "id" : "37i9dQZF1DX4JAvHpjipBk",
+    "images" : [ {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/1988f28c540f98f4aa510729fa3663bd311aae5e",
+      "width" : 300
+    } ],
+    "name" : "New Music Friday",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "public" : false,
+    "snapshot_id" : "01qzZKF6N4j4k+Bo1EeunYjdg5OvxMk5LTVmQBe2aGHgi6e2gra/MdHXpf5pq5QzpBfebtrzZiE=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4JAvHpjipBk/tracks",
+      "total" : 79
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:spotify:playlist:37i9dQZF1DX4JAvHpjipBk"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/4wMqkqw9BqVV7GNokvy8nY"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/4wMqkqw9BqVV7GNokvy8nY",
+    "id" : "4wMqkqw9BqVV7GNokvy8nY",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ee3401bc03169be1f311b0b968de1b0b46b6a1e3",
+      "width" : 640
+    } ],
+    "name" : "Web Player Test - No Relink for SE",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : false,
+    "snapshot_id" : "aJydAiKbhXOw6IIVrqc8ZOiGfiGh0MLTA2cK6QzOPPbQ8uV5V0UDHTOPC36tKbum",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/4wMqkqw9BqVV7GNokvy8nY/tracks",
+      "total" : 4
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:4wMqkqw9BqVV7GNokvy8nY"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/0kVjaxOeE4B56IUhBOkLIQ"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/0kVjaxOeE4B56IUhBOkLIQ",
+    "id" : "0kVjaxOeE4B56IUhBOkLIQ",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9e503f80b7951048215270c457ff167e6c96626c",
+      "width" : 640
+    } ],
+    "name" : "Web Player Test - Relink for SE",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : false,
+    "snapshot_id" : "hVsiLmqKqt+QTEwCbjFh93yMs4P++RrzPK2vmUMNpY/UNW16VNMATb5QwkszuTAf",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/0kVjaxOeE4B56IUhBOkLIQ/tracks",
+      "total" : 2
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:0kVjaxOeE4B56IUhBOkLIQ"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/6pasABEDetvB8I2vh9avye"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/6pasABEDetvB8I2vh9avye",
+    "id" : "6pasABEDetvB8I2vh9avye",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/bba41e8318141c83b66d9f92eb950b4586858807a72306ca20ea2d79ea7b26720b6daba6ccaf5a4a3c21f4792afb37379b87486d3b6b82d90d15b7a123a5adbd9f07f6878be39c368a2b0a095cf2ec58",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/bba41e8318141c83b66d9f92eb950b4586858807a72306ca20ea2d79ea7b26720b6daba6ccaf5a4a3c21f4792afb37379b87486d3b6b82d90d15b7a123a5adbd9f07f6878be39c368a2b0a095cf2ec58",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/bba41e8318141c83b66d9f92eb950b4586858807a72306ca20ea2d79ea7b26720b6daba6ccaf5a4a3c21f4792afb37379b87486d3b6b82d90d15b7a123a5adbd9f07f6878be39c368a2b0a095cf2ec58",
+      "width" : 60
+    } ],
+    "name" : "My Alicante Out of Office Playlist",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : true,
+    "snapshot_id" : "x8A6ecCj5Id09OW7JqtY+gRkZWmJmJSkBkGaUiVAFyjDo/5wViJ2CQK5MG1FPBT4",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/6pasABEDetvB8I2vh9avye/tracks",
+      "total" : 25
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:6pasABEDetvB8I2vh9avye"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX4oUPBOaEkL6"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4oUPBOaEkL6",
+    "id" : "37i9dQZF1DX4oUPBOaEkL6",
+    "images" : [ {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/376c9d3fa5e7e3b8d2773513caa5ea43811751fb",
+      "width" : 300
+    } ],
+    "name" : "Éxitos USA",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "public" : true,
+    "snapshot_id" : "nuJ3MMyldjkbhKYce4MIiXPeNiZLDaltJTKHoZv4/2FmhyC7xzG4+1BgR5Ys4GYoVJBt1SfM9o0=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DX4oUPBOaEkL6/tracks",
+      "total" : 50
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:spotify:playlist:37i9dQZF1DX4oUPBOaEkL6"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/nurilla/playlist/6U2A5ZyoJgeKm52XxI1u9H"
+    },
+    "href" : "https://api.spotify.com/v1/users/nurilla/playlists/6U2A5ZyoJgeKm52XxI1u9H",
+    "id" : "6U2A5ZyoJgeKm52XxI1u9H",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/8faad8fa6b71cac47db6d3e771c20cdef3b4f70914699984935930e8ea4614ce11546b83518efe832fe938bd40b9ee7c0bcf28d5346ed2d8e6b8fea51f37f34965fd58379d32c11286bb050405dbc6a6",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/8faad8fa6b71cac47db6d3e771c20cdef3b4f70914699984935930e8ea4614ce11546b83518efe832fe938bd40b9ee7c0bcf28d5346ed2d8e6b8fea51f37f34965fd58379d32c11286bb050405dbc6a6",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/8faad8fa6b71cac47db6d3e771c20cdef3b4f70914699984935930e8ea4614ce11546b83518efe832fe938bd40b9ee7c0bcf28d5346ed2d8e6b8fea51f37f34965fd58379d32c11286bb050405dbc6a6",
+      "width" : 60
+    } ],
+    "name" : "Españolitos",
+    "owner" : {
+      "display_name" : "Nuria Fernández",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/nurilla"
+      },
+      "href" : "https://api.spotify.com/v1/users/nurilla",
+      "id" : "nurilla",
+      "type" : "user",
+      "uri" : "spotify:user:nurilla"
+    },
+    "public" : false,
+    "snapshot_id" : "sZ+8RlJLYojcZ4jxRSQP+xddlVUxPyW4fi9t2enuDwpsmGRqeBSNMFXMz5dDDC5Q",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/nurilla/playlists/6U2A5ZyoJgeKm52XxI1u9H/tracks",
+      "total" : 28
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:nurilla:playlist:6U2A5ZyoJgeKm52XxI1u9H"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/01kNoYcRkCcEKaqEW7hXCR"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/01kNoYcRkCcEKaqEW7hXCR",
+    "id" : "01kNoYcRkCcEKaqEW7hXCR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/65bc9975c4fbce1acf8f691e9083db6c297de6d2",
+      "width" : 640
+    } ],
+    "name" : "Updated Playlist Name",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : false,
+    "snapshot_id" : "+r0p/5NcJa4A9XV1EHxdDP6+v7sUraEMrq7mKAqKUXVvB8rohqeQHV/Q5TQa/F4G",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/01kNoYcRkCcEKaqEW7hXCR/tracks",
+      "total" : 3
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:01kNoYcRkCcEKaqEW7hXCR"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/5gdWF2NuHLCj9uNizzRZaC"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/5gdWF2NuHLCj9uNizzRZaC",
+    "id" : "5gdWF2NuHLCj9uNizzRZaC",
+    "images" : [ ],
+    "name" : "<wbr style='background:red;display:block' onmouseover='alert(1)' HREF=“http://x.com.tr”>FOOBAR",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : false,
+    "snapshot_id" : "UKYOg7BXy4ghXbrAUwI6Q+jgM6CMf/7u4Aj6RzKCOSgllX+AdVt6QS5bOTQApJxI",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/5gdWF2NuHLCj9uNizzRZaC/tracks",
+      "total" : 2
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:5gdWF2NuHLCj9uNizzRZaC"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWVu7kShAIFUk"
+    },
+    "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWVu7kShAIFUk",
+    "id" : "37i9dQZF1DWVu7kShAIFUk",
+    "images" : [ {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/c4d4bac8430231effb5307b4c8b4ecf9ec3f9e12",
+      "width" : 300
+    } ],
+    "name" : "Akustisk Rock",
+    "owner" : {
+      "display_name" : "Spotify",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/spotify"
+      },
+      "href" : "https://api.spotify.com/v1/users/spotify",
+      "id" : "spotify",
+      "type" : "user",
+      "uri" : "spotify:user:spotify"
+    },
+    "public" : false,
+    "snapshot_id" : "QTbLUtQj/cnItf6mK1biXikHKtb6TZt5QKllEeJp1aZo/qTC+miH/XuVXApwSG5M9axNcLqnnh8=",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/spotify/playlists/37i9dQZF1DWVu7kShAIFUk/tracks",
+      "total" : 53
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:spotify:playlist:37i9dQZF1DWVu7kShAIFUk"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/didi_nawal/playlist/51KPL0VhOAlGsXzG8J52D7"
+    },
+    "href" : "https://api.spotify.com/v1/users/didi_nawal/playlists/51KPL0VhOAlGsXzG8J52D7",
+    "id" : "51KPL0VhOAlGsXzG8J52D7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/0f1fcfa018e411ae07708aa9dd268c8487eb793868a7664f27393c3bda5a7993b5ed393fa2ac03dc7b35e7c647f9913aa574218b18725c7bdf004bee3b5850122737b182c9e147d96fd7482b65b8ed16",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/0f1fcfa018e411ae07708aa9dd268c8487eb793868a7664f27393c3bda5a7993b5ed393fa2ac03dc7b35e7c647f9913aa574218b18725c7bdf004bee3b5850122737b182c9e147d96fd7482b65b8ed16",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/0f1fcfa018e411ae07708aa9dd268c8487eb793868a7664f27393c3bda5a7993b5ed393fa2ac03dc7b35e7c647f9913aa574218b18725c7bdf004bee3b5850122737b182c9e147d96fd7482b65b8ed16",
+      "width" : 60
+    } ],
+    "name" : "listaca tranquila",
+    "owner" : {
+      "display_name" : "Diana López Collado",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/didi_nawal"
+      },
+      "href" : "https://api.spotify.com/v1/users/didi_nawal",
+      "id" : "didi_nawal",
+      "type" : "user",
+      "uri" : "spotify:user:didi_nawal"
+    },
+    "public" : false,
+    "snapshot_id" : "f3JDh20pOWODOdIXieADbHIO68nuxX8wxPUjZygDALiyeL/mtxPkT7pI6HGAK4sr",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/didi_nawal/playlists/51KPL0VhOAlGsXzG8J52D7/tracks",
+      "total" : 30
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:didi_nawal:playlist:51KPL0VhOAlGsXzG8J52D7"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/628od5L2MOk9Q5qZIv6U5I"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/628od5L2MOk9Q5qZIv6U5I",
+    "id" : "628od5L2MOk9Q5qZIv6U5I",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/9e6ec09914b7533d0ba773ea3b640cc19b4fc355dce0bffb6085b5a597d57fb437c7f195f58e29110ef6d3da409ea88fa7055ff726b628583ebd8709befc0a403139fa9a4e3adb2fe588d50b68f8e589",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/9e6ec09914b7533d0ba773ea3b640cc19b4fc355dce0bffb6085b5a597d57fb437c7f195f58e29110ef6d3da409ea88fa7055ff726b628583ebd8709befc0a403139fa9a4e3adb2fe588d50b68f8e589",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/9e6ec09914b7533d0ba773ea3b640cc19b4fc355dce0bffb6085b5a597d57fb437c7f195f58e29110ef6d3da409ea88fa7055ff726b628583ebd8709befc0a403139fa9a4e3adb2fe588d50b68f8e589",
+      "width" : 60
+    } ],
+    "name" : "Test Dedup 7",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : false,
+    "snapshot_id" : "3Ytm+hH5wfCIxTswWiKyPOUnxngGarfop2gUIo3Xx2NL/kaJ0fJelK1V7ifFwZPa",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/628od5L2MOk9Q5qZIv6U5I/tracks",
+      "total" : 685
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:628od5L2MOk9Q5qZIv6U5I"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/6b60y5WOpiTVnuaNVZ1yyP"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/6b60y5WOpiTVnuaNVZ1yyP",
+    "id" : "6b60y5WOpiTVnuaNVZ1yyP",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/d3de854a5b33e3c64545cc9d26ed700bb6ca7c6a5e7a2e51a66ac35c2e930a8ce302bf4c81a75835acf8cbbf5b46bdf7c2b05397f53edcf3ca1ce918d2a9a8733f82505256fa9c1a035fbe263110d028",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/d3de854a5b33e3c64545cc9d26ed700bb6ca7c6a5e7a2e51a66ac35c2e930a8ce302bf4c81a75835acf8cbbf5b46bdf7c2b05397f53edcf3ca1ce918d2a9a8733f82505256fa9c1a035fbe263110d028",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/d3de854a5b33e3c64545cc9d26ed700bb6ca7c6a5e7a2e51a66ac35c2e930a8ce302bf4c81a75835acf8cbbf5b46bdf7c2b05397f53edcf3ca1ce918d2a9a8733f82505256fa9c1a035fbe263110d028",
+      "width" : 60
+    } ],
+    "name" : "La Fuga at Auditorio Municipal, 28-04-2016",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : false,
+    "snapshot_id" : "b/nX2HICWgVtJeRf8Y8iZHGGpJWctV72XsEqrn8nWwBefgKG3Du0riQRCWhamVKm",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/6b60y5WOpiTVnuaNVZ1yyP/tracks",
+      "total" : 11
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:6b60y5WOpiTVnuaNVZ1yyP"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/2QNZDygdMu23mq59rDTQ1G"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/2QNZDygdMu23mq59rDTQ1G",
+    "id" : "2QNZDygdMu23mq59rDTQ1G",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/9328ff5f7b8f25c649873b41948dd5d61aa6e299",
+      "width" : 640
+    } ],
+    "name" : "Rulo y la contrabanda at Lunario del Auditorio Nacional, 18-11-2014",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : false,
+    "snapshot_id" : "Ys0nQOqGYaDbrmMSEjP7rebt5UNDd1zy4aTdKZzmdo2nn8qIG+Gr5hnPB3as9guK",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/2QNZDygdMu23mq59rDTQ1G/tracks",
+      "total" : 13
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:2QNZDygdMu23mq59rDTQ1G"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/6SkmCaLZQLfrtjoUOPYB4H"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/6SkmCaLZQLfrtjoUOPYB4H",
+    "id" : "6SkmCaLZQLfrtjoUOPYB4H",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/03f017a0243f8700181a566c8201a0ee992a9e915c0f4e43e219f387384aab1c5567776307776960a703b4a9a7caf47942a64f09a1f867b36ee92e82c5127f837767a3b6f5817ea1d0659f784f81180b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/03f017a0243f8700181a566c8201a0ee992a9e915c0f4e43e219f387384aab1c5567776307776960a703b4a9a7caf47942a64f09a1f867b36ee92e82c5127f837767a3b6f5817ea1d0659f784f81180b",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/03f017a0243f8700181a566c8201a0ee992a9e915c0f4e43e219f387384aab1c5567776307776960a703b4a9a7caf47942a64f09a1f867b36ee92e82c5127f837767a3b6f5817ea1d0659f784f81180b",
+      "width" : 60
+    } ],
+    "name" : "Dedup Test - Copy",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : false,
+    "snapshot_id" : "b7F7ZRZmtRWsS1MWluBhYJgtx49FS5uGNSFWCkmLb/iQgCsWpZwpogXgSnu5UWFw",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/6SkmCaLZQLfrtjoUOPYB4H/tracks",
+      "total" : 5079
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:6SkmCaLZQLfrtjoUOPYB4H"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/2NmG5rLDUqJJHj5LsI4JOh"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/2NmG5rLDUqJJHj5LsI4JOh",
+    "id" : "2NmG5rLDUqJJHj5LsI4JOh",
+    "images" : [ ],
+    "name" : "This will be an empty playlist",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : false,
+    "snapshot_id" : "XgqT7SR0CEJKMp8qtDDb2KhRG2zjJs3e/vQQxMbAMTicY4YAIa0E/YV5/NJsHt65",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/2NmG5rLDUqJJHj5LsI4JOh/tracks",
+      "total" : 0
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:2NmG5rLDUqJJHj5LsI4JOh"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/homerjunior/playlist/6i7WOjBaiq3ZV5I9ED1yEO"
+    },
+    "href" : "https://api.spotify.com/v1/users/homerjunior/playlists/6i7WOjBaiq3ZV5I9ED1yEO",
+    "id" : "6i7WOjBaiq3ZV5I9ED1yEO",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/e15fd799c27e4aa7c1f1e0ffca61d125c1ba24d921d1c2db6476550992c03b92d99f604ce40416df8e13663e475d819d984b367bf57f2a41838f21cf8e53466c65582b1b6a07347f3a7103d49f3a25a2",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/e15fd799c27e4aa7c1f1e0ffca61d125c1ba24d921d1c2db6476550992c03b92d99f604ce40416df8e13663e475d819d984b367bf57f2a41838f21cf8e53466c65582b1b6a07347f3a7103d49f3a25a2",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/e15fd799c27e4aa7c1f1e0ffca61d125c1ba24d921d1c2db6476550992c03b92d99f604ce40416df8e13663e475d819d984b367bf57f2a41838f21cf8e53466c65582b1b6a07347f3a7103d49f3a25a2",
+      "width" : 60
+    } ],
+    "name" : "Canciones para viajar Vol.II (Rock en Español)",
+    "owner" : {
+      "display_name" : null,
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/homerjunior"
+      },
+      "href" : "https://api.spotify.com/v1/users/homerjunior",
+      "id" : "homerjunior",
+      "type" : "user",
+      "uri" : "spotify:user:homerjunior"
+    },
+    "public" : false,
+    "snapshot_id" : "blCLxdDlOi8MDS0qlvpUVBlJlh8U4it4ZZq+1Ra5aimwj4pkMEdfhoA22pmxLoAE",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/homerjunior/playlists/6i7WOjBaiq3ZV5I9ED1yEO/tracks",
+      "total" : 66
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:homerjunior:playlist:6i7WOjBaiq3ZV5I9ED1yEO"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/056h8EkiWy9M6BitfD2JMD"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/056h8EkiWy9M6BitfD2JMD",
+    "id" : "056h8EkiWy9M6BitfD2JMD",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/8a842fddc38f124c030b4f0519ecedf353e0d72f",
+      "width" : 640
+    } ],
+    "name" : "<script>alert(1)</script>",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : true,
+    "snapshot_id" : "cQKPTgt05KTSlBcStOJBZ4W1Hh73QoKD+Y9dH1q4Ggq4byLMNxEa9RlYEBHO+GnE",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/056h8EkiWy9M6BitfD2JMD/tracks",
+      "total" : 1
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:056h8EkiWy9M6BitfD2JMD"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/6AGZjUzeJ8rUHxVyNnArDC"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/6AGZjUzeJ8rUHxVyNnArDC",
+    "id" : "6AGZjUzeJ8rUHxVyNnArDC",
+    "images" : [ ],
+    "name" : "Test",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : false,
+    "snapshot_id" : "ephOMoqnHmfju+2T9jKr6s7ljojM/WszANd5KLUSeNYboKp6wOrdoofaJzQYb2kq",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/6AGZjUzeJ8rUHxVyNnArDC/tracks",
+      "total" : 1
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:6AGZjUzeJ8rUHxVyNnArDC"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/particledetector/playlist/2B7FDTLJz2tvt67WONBt3q"
+    },
+    "href" : "https://api.spotify.com/v1/users/particledetector/playlists/2B7FDTLJz2tvt67WONBt3q",
+    "id" : "2B7FDTLJz2tvt67WONBt3q",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/e24349769cb44a6ada19e4f4ae6db4a193136c44",
+      "width" : null
+    } ],
+    "name" : "The Pulse of Spanish Indie Rock",
+    "owner" : {
+      "display_name" : "Particle Detector",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/particledetector"
+      },
+      "href" : "https://api.spotify.com/v1/users/particledetector",
+      "id" : "particledetector",
+      "type" : "user",
+      "uri" : "spotify:user:particledetector"
+    },
+    "public" : true,
+    "snapshot_id" : "wRaj2ZMyCpoU+dZz05chH+FvgmiG/hr0LXwRuTSCObIVPdTNLx/vR89+AJpWxmWj",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/particledetector/playlists/2B7FDTLJz2tvt67WONBt3q/tracks",
+      "total" : 25
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:particledetector:playlist:2B7FDTLJz2tvt67WONBt3q"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/7lyhjIcaSwDZAy43C24209"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/7lyhjIcaSwDZAy43C24209",
+    "id" : "7lyhjIcaSwDZAy43C24209",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/b981a64eae0a684ca058f1134c6065835d7d506ab91264242848189e1d24f5f70321f8683e414a2e24519665199311c2812c9b53995af991a885305ede42d04f495960b8446031ee0662737b249a29f4",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/b981a64eae0a684ca058f1134c6065835d7d506ab91264242848189e1d24f5f70321f8683e414a2e24519665199311c2812c9b53995af991a885305ede42d04f495960b8446031ee0662737b249a29f4",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/b981a64eae0a684ca058f1134c6065835d7d506ab91264242848189e1d24f5f70321f8683e414a2e24519665199311c2812c9b53995af991a885305ede42d04f495960b8446031ee0662737b249a29f4",
+      "width" : 60
+    } ],
+    "name" : "Dedup Test3",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : false,
+    "snapshot_id" : "6zOIY7JBvI0BV4+qlPHdrf128nxCX9pXRCs0blFq/1dmAVRnSWWGYDJKR9Y1auIY",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/7lyhjIcaSwDZAy43C24209/tracks",
+      "total" : 119
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:7lyhjIcaSwDZAy43C24209"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/particledetector/playlist/254HhHH36uxyv9qpiGFlNJ"
+    },
+    "href" : "https://api.spotify.com/v1/users/particledetector/playlists/254HhHH36uxyv9qpiGFlNJ",
+    "id" : "254HhHH36uxyv9qpiGFlNJ",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/554b2512865b631b2c97ff3c7e82ece14d3dbf2e",
+      "width" : null
+    } ],
+    "name" : "The Pulse of Spanish Indie Pop",
+    "owner" : {
+      "display_name" : "Particle Detector",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/particledetector"
+      },
+      "href" : "https://api.spotify.com/v1/users/particledetector",
+      "id" : "particledetector",
+      "type" : "user",
+      "uri" : "spotify:user:particledetector"
+    },
+    "public" : false,
+    "snapshot_id" : "k+wc6mwWjKavcVu4g1JURhCoLYFxA4EZEa/loIOTu1OLGqenxI+SP8LZByA2Tspq",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/particledetector/playlists/254HhHH36uxyv9qpiGFlNJ/tracks",
+      "total" : 200
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:particledetector:playlist:254HhHH36uxyv9qpiGFlNJ"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/0uhltun52kMQz9kCj4l14P"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/0uhltun52kMQz9kCj4l14P",
+    "id" : "0uhltun52kMQz9kCj4l14P",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/35d32118b40106fa351beca22af65b685505e45dcef76617e46882cf03d565f4dca458254f47fbfdf7a3995c833b0853fbf72367233fcf6042f54f0d69b7e4a0c761691a3f7251e58e734999fb1d80a3",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/35d32118b40106fa351beca22af65b685505e45dcef76617e46882cf03d565f4dca458254f47fbfdf7a3995c833b0853fbf72367233fcf6042f54f0d69b7e4a0c761691a3f7251e58e734999fb1d80a3",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/35d32118b40106fa351beca22af65b685505e45dcef76617e46882cf03d565f4dca458254f47fbfdf7a3995c833b0853fbf72367233fcf6042f54f0d69b7e4a0c761691a3f7251e58e734999fb1d80a3",
+      "width" : 60
+    } ],
+    "name" : "Dedup Test2",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : false,
+    "snapshot_id" : "P5ZEnR+qw/jnM3Ew/gEjJRs85JNj7Wn+0XPs9D4xsS9u3guCno7WCbVo8IEmcDsr",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/0uhltun52kMQz9kCj4l14P/tracks",
+      "total" : 422
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:0uhltun52kMQz9kCj4l14P"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/5cZREFLUZxhSHP3Kznw06W"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/5cZREFLUZxhSHP3Kznw06W",
+    "id" : "5cZREFLUZxhSHP3Kznw06W",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/03f017a0243f8700181a566c8201a0ee992a9e915c0f4e43e219f387384aab1c5567776307776960a703b4a9a7caf47942a64f09a1f867b36ee92e82c5127f837767a3b6f5817ea1d0659f784f81180b",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/03f017a0243f8700181a566c8201a0ee992a9e915c0f4e43e219f387384aab1c5567776307776960a703b4a9a7caf47942a64f09a1f867b36ee92e82c5127f837767a3b6f5817ea1d0659f784f81180b",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/03f017a0243f8700181a566c8201a0ee992a9e915c0f4e43e219f387384aab1c5567776307776960a703b4a9a7caf47942a64f09a1f867b36ee92e82c5127f837767a3b6f5817ea1d0659f784f81180b",
+      "width" : 60
+    } ],
+    "name" : "Dedup Test",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : false,
+    "snapshot_id" : "mYXEanT5HJJAgwULR0eoxsc3Jvle+cLi1CrZDrkB4Umrqi7mhlIMFlBZIgzUD7lX",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/5cZREFLUZxhSHP3Kznw06W/tracks",
+      "total" : 5079
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:5cZREFLUZxhSHP3Kznw06W"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/2Cxj5z8M0TPKJYTHiDcoo4"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/2Cxj5z8M0TPKJYTHiDcoo4",
+    "id" : "2Cxj5z8M0TPKJYTHiDcoo4",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/de58b79f49b8d96497fcf518d3d9014f434c30aa7f729ebcdc19fa042fbeda81a6c5169802a6cbf3f1a1ee526fd78611ca02ca86f5f0ec44a722f86408d1ec6e681ef6c8cadeb203d78b623220debf45",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/de58b79f49b8d96497fcf518d3d9014f434c30aa7f729ebcdc19fa042fbeda81a6c5169802a6cbf3f1a1ee526fd78611ca02ca86f5f0ec44a722f86408d1ec6e681ef6c8cadeb203d78b623220debf45",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/de58b79f49b8d96497fcf518d3d9014f434c30aa7f729ebcdc19fa042fbeda81a6c5169802a6cbf3f1a1ee526fd78611ca02ca86f5f0ec44a722f86408d1ec6e681ef6c8cadeb203d78b623220debf45",
+      "width" : 60
+    } ],
+    "name" : "Mando Diao at Mercedes-Benz Kundencenter on 2015-09-05",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : false,
+    "snapshot_id" : "THrPBoCGw5oWmY8cdGYo3uZcrVMfk5cvAlOhU7NLwA8kdAassxmVZ/368wsw1+2H",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/2Cxj5z8M0TPKJYTHiDcoo4/tracks",
+      "total" : 13
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:2Cxj5z8M0TPKJYTHiDcoo4"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/3Y8KTAJtyss3n1GKNQM1IE"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/3Y8KTAJtyss3n1GKNQM1IE",
+    "id" : "3Y8KTAJtyss3n1GKNQM1IE",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://mosaic.scdn.co/640/8407dc625fc24d65f348fdc73b6ef81dc2bc29fedab06920ae3e6de5c3dea4bde605749df72f5a5db68b39fdc2409d0f526ad48775ddcd93ff496cda5c69dfb7c6bd99518facb068fec7b92df2df10c8",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://mosaic.scdn.co/300/8407dc625fc24d65f348fdc73b6ef81dc2bc29fedab06920ae3e6de5c3dea4bde605749df72f5a5db68b39fdc2409d0f526ad48775ddcd93ff496cda5c69dfb7c6bd99518facb068fec7b92df2df10c8",
+      "width" : 300
+    }, {
+      "height" : 60,
+      "url" : "https://mosaic.scdn.co/60/8407dc625fc24d65f348fdc73b6ef81dc2bc29fedab06920ae3e6de5c3dea4bde605749df72f5a5db68b39fdc2409d0f526ad48775ddcd93ff496cda5c69dfb7c6bd99518facb068fec7b92df2df10c8",
+      "width" : 60
+    } ],
+    "name" : "Top breakfast tracks",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : true,
+    "snapshot_id" : "9Y3wq903/OV8K0QsclgsSVnVKNwh95yKPTopK+pMSTUe7pXEgkZbWpBQdDZjPoiu",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/3Y8KTAJtyss3n1GKNQM1IE/tracks",
+      "total" : 97
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:3Y8KTAJtyss3n1GKNQM1IE"
+  }, {
+    "collaborative" : false,
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/user/jmperezperez/playlist/4u8BmRrkRG7gQh0uMVzC9n"
+    },
+    "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/4u8BmRrkRG7gQh0uMVzC9n",
+    "id" : "4u8BmRrkRG7gQh0uMVzC9n",
+    "images" : [ {
+      "height" : null,
+      "url" : "https://pl.scdn.co/images/pl/default/7360f3df3a97d2e80df0cad1baaed0b037e6124f",
+      "width" : null
+    } ],
+    "name" : "Work with us!",
+    "owner" : {
+      "display_name" : "JMPerez²",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/jmperezperez"
+      },
+      "href" : "https://api.spotify.com/v1/users/jmperezperez",
+      "id" : "jmperezperez",
+      "type" : "user",
+      "uri" : "spotify:user:jmperezperez"
+    },
+    "public" : false,
+    "snapshot_id" : "OXxwgvXjbGSMhuSb8BWZe1POlgGxR52y7j7OfiJp1ZYuhJf9uWf7SZPE+fIzQEp0",
+    "tracks" : {
+      "href" : "https://api.spotify.com/v1/users/jmperezperez/playlists/4u8BmRrkRG7gQh0uMVzC9n/tracks",
+      "total" : 8
+    },
+    "type" : "playlist",
+    "uri" : "spotify:user:jmperezperez:playlist:4u8BmRrkRG7gQh0uMVzC9n"
+  } ],
+  "limit" : 50,
+  "next" : "https://api.spotify.com/v1/users/jmperezperez/playlists?offset=50&limit=50",
+  "offset" : 0,
+  "previous" : null,
+  "total" : 212
+}
