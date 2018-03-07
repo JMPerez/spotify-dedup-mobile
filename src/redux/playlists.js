@@ -137,7 +137,6 @@ export const getProgress = state => {
   if (state.playlists.items.length) {
     const processing = state.playlists.items.filter(i => i.processing).length;
     const total = state.playlists.items.length;
-    console.log('PROGRESS', processing, total);
     return total === 0 ? 100 : 100 - processing * 100 / total;
   }
   return 0;

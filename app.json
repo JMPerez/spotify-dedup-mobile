@@ -1,5 +1,8 @@
 {
   "expo": {
-    "sdkVersion": "25.0.0"
+    "description": "Find and remove duplicated tracks from your Spotify playlists",
+    "name": "Spotify Deduplicator",
+    "sdkVersion": "25.0.0",
+    "privacy": "unlisted"
   }
 }

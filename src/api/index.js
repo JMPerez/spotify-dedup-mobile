@@ -19,7 +19,6 @@ class SpotifyWebApi {
             .map(k => `${k}=${options[k]}`)
             .join('=')}`;
 
-    console.log(`${url}${optionsString}`);
     const res = await fetch(`${url}${optionsString}`, {
       method: 'GET',
       headers: {
@@ -57,7 +56,6 @@ class SpotifyWebApi {
       }
     );
 
-    console.log('removing', JSON.stringify(dataToBeSent));
     const json = await res.json();
     if (res.ok) return json;
     return null;

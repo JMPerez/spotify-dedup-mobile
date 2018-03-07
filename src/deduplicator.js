@@ -107,7 +107,6 @@ export default class Deduplicator {
           );
           const duplicates = await this.findDuplicates(playlist);
           if (duplicates.length > 0) {
-            console.log('duplicates', duplicates);
             this.removeDuplicates(playlist);
           } else {
             resolve();

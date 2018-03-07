@@ -31,7 +31,8 @@ const styles = StyleSheet.create({
   listItem: {
     alignItems: 'flex-start',
     display: 'flex',
-    flexDirection: 'row'
+    flexDirection: 'row',
+    paddingBottom: 10,
   },
   coverArt: {
     width: 50,
@@ -44,6 +45,15 @@ const styles = StyleSheet.create({
   bodyHeader: {
     fontWeight: 'bold'
   },
+  itemButton: {
+    borderRadius: 10,
+    padding: 5,
+    backgroundColor: '#9FA8DA'
+  },
+  itemTitle: {
+    fontWeight: 'bold',
+    fontSize: 16,
+  },
   header: {
     fontSize: 20,
     paddingBottom: 5,
@@ -53,9 +63,17 @@ const styles = StyleSheet.create({
 });
 
 class LibraryScreen extends React.Component {
-  static navigationOptions = {
-    title: 'Processing your Library'
+  static navigationOptions = ({ navigation }) => {
+    const params = navigation.state.params || {};
+
+    return {
+      headerTitle: 'Processing Library',
+      headerRight: (
+        <Button onPress={() => navigation.goBack()} title="Cancel" color="#fff" />
+      ),
+    }
   };
+
   componentDidMount() {
     this.props.fetchPlaylists();
   }
@@ -66,13 +84,13 @@ class LibraryScreen extends React.Component {
           <View style={styles.container}>
             <Text style={styles.header}>Fetching playlists...</Text>
             <Progress value={0} />
-            <View style={{ height: 50, paddingTop: 5 }}>
+            <View style={{ height: 80, paddingTop: 5 }}>
               <Text style={{ textAlign: 'center' }}>
                 Getting the list of your playlists
               </Text>
             </View>
             <Text
-              style={{ textAlign: 'center' }}
+              style={{ textAlign: 'center', color: '#ef5350', fontSize: 12 }}
               onPress={() => this.props.navigation.goBack()}
             >
               Cancel
@@ -84,7 +102,7 @@ class LibraryScreen extends React.Component {
           <View style={styles.container}>
             <Text style={styles.header}>Finding duplicates...</Text>
             <Progress value={this.props.progress} />
-            <View style={{ height: 50, paddingTop: 5 }}>
+            <View style={{ height: 80, paddingTop: 5 }}>
               {this.props.processingPlaylist && (
                 <Text style={{ textAlign: 'center' }}>
                   {this.props.processingPlaylist.name}
@@ -92,7 +110,7 @@ class LibraryScreen extends React.Component {
               )}
             </View>
             <Text
-              style={{ textAlign: 'center' }}
+              style={{ textAlign: 'center', color: '#ef5350', fontSize: 12 }}
               onPress={() => this.props.navigation.goBack()}
             >
               Cancel
@@ -105,13 +123,13 @@ class LibraryScreen extends React.Component {
             <Text style={styles.header}>Done finding duplicates!</Text>
             {this.props.playlistsWithDuplicates.length === 0 ? (
               <Text>
-                Spotify Dedup couldn't find any duplicate track in your library.
+                Spotify Deduplicator couldn't find any duplicate track in your library.
                 Congrats!
               </Text>
             ) : (
               <View>
                 <Text>
-                  Spotify Dedup found{' '}
+                  Spotify Deduplicator found{' '}
                   {this.props.playlistsWithDuplicates.length}{' '}
                   {this.props.playlistsWithDuplicates.length > 1
                     ? 'playlists'
@@ -126,27 +144,26 @@ class LibraryScreen extends React.Component {
                       <View style={styles.listItem}>
                         {item.images && item.images.length ? (
                           <Image
-                            source={{ uri: item.images[0].url }}
+                            source={{ uri: item.images[item.images.length - 1].url }}
                             style={styles.coverArt}
                           />
                         ) : null}
                         <View style={styles.body}>
-                          <Text style={styles.bodyHeader}>{item.name}</Text>
-                          <Text>({item.duplicates.length})</Text>
+                          <Text style={styles.itemTitle}>{item.name}</Text>
                           <View style={{ flexDirection: 'row' }}>
-                            <TouchableOpacity
+                            <TouchableOpacity style={styles.itemButton}
                               onPress={() => this.props.removeDuplicates(item)}
                             >
                               <View>
-                                <Text>Remove Duplicates</Text>
+                                <Text>Remove {item.duplicates.length} {item.duplicates.length > 1 ? 'Duplicates' : 'Duplicate'}</Text>
                               </View>
                             </TouchableOpacity>
                           </View>
                           {item.duplicates.map((d, i) => (
-                            <View>
-                              <Text key={i}>
-                                {d.track.name} by {d.track.artists[0].name}
-                              </Text>
+                            <View key={i} style={{flexDirection: 'row'}}>
+                              <Text style={{fontWeight: 'bold'}}>{d.track.name}</Text>
+                              <Text> by </Text>
+                              <Text style={{fontWeight: 'bold'}}>{d.track.artists[0].name}</Text>
                             </View>
                           ))}
                         </View>

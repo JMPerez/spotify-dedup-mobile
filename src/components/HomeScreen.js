@@ -21,8 +21,8 @@ import { authSuccess, fetchMe } from '../redux/session';
 const deviceWidth = Dimensions.get('window').width;
 
 function toQueryString(obj) {
-  var parts = [];
-  for (var i in obj) {
+  let parts = [];
+  for (let i in obj) {
     if (obj.hasOwnProperty(i)) {
       parts.push(encodeURIComponent(i) + '=' + encodeURIComponent(obj[i]));
     }
@@ -132,15 +132,18 @@ class HomeScreen extends React.Component {
             <View>
               <TouchableHighlight
                 onPress={this._navigateForward}
-                underlayColor="white"
+                underlayColor="#fff"
               >
                 <View style={styles.mainButton}>
                   <Text style={styles.mainButtonText}>Find duplicates</Text>
                 </View>
               </TouchableHighlight>
+              <Text style={{ fontSize: 12, color: '#666', textAlign: 'center', paddingBottom: 5 }}>
+                Logged in as {this.props.username}.
+              </Text>
               <View style={{ flexDirection: 'row' }}>
                 <Text style={{ fontSize: 12, color: '#666' }}>
-                  Logged in as {this.props.username}.{' '}
+                Not you?{' '}
                 </Text>
                 <Text
                   style={{ fontSize: 12, color: '#428bca' }}
@@ -153,7 +156,7 @@ class HomeScreen extends React.Component {
           ) : (
             <TouchableHighlight
               onPress={this._openSpotifyAuth}
-              underlayColor="white"
+              underlayColor="#fff"
             >
               <View style={styles.mainButton}>
                 <Text style={styles.mainButtonText}>Log in with Spotify</Text>

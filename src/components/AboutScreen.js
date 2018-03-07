@@ -10,7 +10,7 @@ import {
 
 class AboutScreen extends React.Component {
   static navigationOptions = {
-    title: 'About Spotify Deduplicator'
+    title: 'About'
   };
 
   render() {
@@ -42,7 +42,7 @@ class AboutScreen extends React.Component {
               <Text
                 style={{ color: '#428bca', paddingTop: 5 }}
                 onPress={() =>
-                  Linking.openURL('https://jmperezperez.com/spotify-dedup/')
+                  Linking.openURL('https://github.com/JMPerez/spotify-dedup-mobile')
                 }
               >
                 Check out the code on GitHub
