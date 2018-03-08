@@ -143,13 +143,9 @@ class HomeScreen extends React.Component {
               </Text>
               <View style={{ flexDirection: 'row' }}>
                 <Text style={{ fontSize: 12, color: '#666' }}>
-                Not you?{' '}
-                </Text>
-                <Text
-                  style={{ fontSize: 12, color: '#428bca' }}
-                  onPress={() => this._openSpotifyAuth(true)}
-                >
+                Not you? <Text style={{ color: '#428bca' }} onPress={() => this._openSpotifyAuth(true)} >
                   Log in as a different user.
+                </Text>
                 </Text>
               </View>
             </View>
