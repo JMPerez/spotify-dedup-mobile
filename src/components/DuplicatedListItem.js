@@ -85,7 +85,7 @@ export default class DuplicatedListItem extends React.Component {
             ))}
           </View>
         </View>
-       </View>
+        </View>
       );
   }
 }
