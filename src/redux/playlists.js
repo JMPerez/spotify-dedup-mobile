@@ -4,11 +4,15 @@ export const STATES = {
   DONE: 2
 };
 
+const initialState = { items: [], libraryState: STATES.LOADING };
 export function playlistsReducer(
-  state = { items: [], libraryState: STATES.LOADING },
+  state = initialState,
   action
 ) {
   switch (action.type) {
+    case FETCH_PLAYLISTS: {
+      return initialState;
+    }
     case FETCH_PLAYLISTS_SUCCESS: {
       return {
         ...state,

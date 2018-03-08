@@ -19,8 +19,8 @@ const innerProgressStyles = progressValue => ({
   width: `${Math.max(6, progressValue)}%`
 });
 
-export default () =>(
+export default (props) =>(
   <View style={styles.progressContainer}>
-    <View style={innerProgressStyles(this.props.value)} />
+    <View style={innerProgressStyles(props.value)} />
   </View>
 );
