@@ -20,6 +20,7 @@ import {
   getPlaylistsWithDuplicates
 } from '../redux/playlists';
 import Progress from './Progress';
+import DuplicatedListItem from './DuplicatedListItem';
 
 const styles = StyleSheet.create({
   container: {
@@ -28,31 +29,10 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     padding: 10
   },
-  listItem: {
-    alignItems: 'flex-start',
-    display: 'flex',
-    flexDirection: 'row',
-    paddingBottom: 10,
-  },
   coverArt: {
     width: 50,
     height: 50,
     marginRight: 10
-  },
-  body: {
-    flex: 1
-  },
-  bodyHeader: {
-    fontWeight: 'bold'
-  },
-  itemButton: {
-    borderRadius: 10,
-    padding: 5,
-    backgroundColor: '#9FA8DA'
-  },
-  itemTitle: {
-    fontWeight: 'bold',
-    fontSize: 16,
   },
   header: {
     fontSize: 20,
@@ -122,63 +102,45 @@ class LibraryScreen extends React.Component {
           <View style={styles.container}>
             <Text style={styles.header}>Done finding duplicates!</Text>
             {this.props.playlistsWithDuplicates.length === 0 ? (
-              <Text>
-                Spotify Deduplicator couldn't find any duplicate track in your library.
-                Congrats!
+              <Text style={{textAlign: 'center'}}>
+                There are no duplicates in your library. Congrats!
               </Text>
             ) : (
               <View>
-                <Text>
-                  Spotify Deduplicator found{' '}
-                  {this.props.playlistsWithDuplicates.length}{' '}
-                  {this.props.playlistsWithDuplicates.length > 1
-                    ? 'playlists'
-                    : 'playlist'}{' '}
-                  with duplicate tracks
-                </Text>
+                <View style={{marginBottom: 20}}>
+                  <Text style={{textAlign: 'center'}}>
+                    Found duplicates in{' '}
+                    {this.props.playlistsWithDuplicates.length}{' '}
+                    {this.props.playlistsWithDuplicates.length > 1
+                      ? 'playlists'
+                      : 'playlist'}
+                  </Text>
+                </View>
                 <ScrollView>
                   <FlatList
                     data={this.props.playlistsWithDuplicates}
                     keyExtractor={(item, index) => index}
-                    renderItem={({ item }) => (
-                      <View style={styles.listItem}>
-                        {item.images && item.images.length ? (
-                          <Image
-                            source={{ uri: item.images[item.images.length - 1].url }}
-                            style={styles.coverArt}
-                          />
-                        ) : null}
-                        <View style={styles.body}>
-                          <Text style={styles.itemTitle}>{item.name}</Text>
-                          <View style={{ flexDirection: 'row' }}>
-                            <TouchableOpacity style={styles.itemButton}
-                              onPress={() => this.props.removeDuplicates(item)}
-                            >
-                              <View>
-                                <Text>Remove {item.duplicates.length} {item.duplicates.length > 1 ? 'Duplicates' : 'Duplicate'}</Text>
-                              </View>
-                            </TouchableOpacity>
-                          </View>
-                          {item.duplicates.map((d, i) => (
-                            <View key={i} style={{flexDirection: 'row'}}>
-                              <Text style={{fontWeight: 'bold'}}>{d.track.name}</Text>
-                              <Text> by </Text>
-                              <Text style={{fontWeight: 'bold'}}>{d.track.artists[0].name}</Text>
-                            </View>
-                          ))}
-                        </View>
-                      </View>
-                    )}
+                    renderItem={({ item }) => {
+                      const imageUrl = item.images && item.images.length ? item.images[item.images.length - 1].url : null;
+                      return <DuplicatedListItem
+                        imageUrl={imageUrl}
+                        title={item.name}
+                        subtitle={`${item.duplicates.length} ${item.duplicates.length > 1 ? 'Duplicates' : 'Duplicate'}`}
+                        duplicates={item.duplicates}
+                        duplicatesClick={() => this.props.removeDuplicates(item)} />;
+                    }}
                   />
                 </ScrollView>
               </View>
             )}
-            <Text
-              style={{ textAlign: 'center' }}
-              onPress={() => this.props.navigation.goBack()}
-            >
-              Done
-            </Text>
+            <View style={{marginTop: 40}}>
+              <Text
+                style={{ color: '#428bca', textAlign: 'center' }}
+                onPress={() => this.props.navigation.goBack()}
+              >
+                Go Back
+              </Text>
+            </View>
           </View>
         );
     }
