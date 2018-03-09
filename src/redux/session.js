@@ -1,3 +1,14 @@
+import Login from './login';
+
+export const showLogin = forceUser => {
+  return dispatch => {
+    return Login(forceUser).then(accessToken => {
+      dispatch(authSuccess(accessToken));
+      dispatch(fetchMe());
+    });
+  };
+};
+
 export const AUTH_SUCCESS = 'AUTH_SUCCESS';
 export function authSuccess(accessToken) {
   return {
@@ -30,3 +41,7 @@ export function sessionReducer(state = {}, action) {
       return state;
   }
 }
+
+// export selectors
+export const isLoggedIn = state => state.accessToken !== undefined;
+export const getUsername = state => state.username;
